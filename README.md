@@ -41,9 +41,9 @@ A complete browser version of the dice game **Perudo (Liar's Dice)** — 2–6 p
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=O-srcK&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=O-srcK&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=O-srcK&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=O-srcK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=O-srcK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=O-srcK&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 Certifications & Highlights
 - **Certiport IT Specialist** — Network Security · Python · Databases
