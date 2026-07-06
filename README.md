@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects
 
-### 🫀 [Tavi_predictor](https://github.com/O-srcK/Tavi_predictor) · Python · Machine Learning
+### 🫀 [Tavi-predictor](https://github.com/O-srcK/Tavi-predictor) · Python · Machine Learning
 Post-TAVI (heart-valve implant) complication-risk predictor — a logistic-regression model (AUC ≈ 0.83) kept to just 2 clinical inputs for real usability, served through a **Flask** web app. Built as the ML component of an accepted Master's thesis.
 `scikit-learn` · `pandas` · `Flask`
 
@@ -24,7 +24,7 @@ Post-TAVI (heart-valve implant) complication-risk predictor — a logistic-regre
 Real-time vehicle detection with **YOLOv4-tiny** + OpenCV and object tracking over a live feed. Ran on a **Raspberry Pi 5** as the perception layer of the award-winning **Intelligent Intersection** project.
 `OpenCV` · `YOLOv4-tiny` · `Raspberry Pi`
 
-### 🐍 [Snake-game](https://github.com/O-srcK/Snake-game) · C++ / Arduino
+### 🐍 [Snake_game](https://github.com/O-srcK/Snake_game) · C++ / Arduino
 Snake, two ways — a **C++ terminal** build and an **Arduino / WS2812B 8×8 LED-matrix** build (FastLED, color modes, animations). MIT-licensed.
 `C++` · `Arduino` · `embedded`
 
