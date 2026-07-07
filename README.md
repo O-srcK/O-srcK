@@ -18,7 +18,7 @@
 
 ### 🫀 [Tavi-predictor](https://github.com/O-srcK/Tavi-predictor) · Python · Machine Learning
 Post-TAVI (heart-valve implant) complication-risk predictor — a logistic-regression model (AUC ≈ 0.83) kept to just 2 clinical inputs for real usability, served through a **Flask** web app. Built as the ML component of an accepted Master's thesis.
-`scikit-learn` · `pandas` · `Flask`
+`scikit-learn` · `pandas` · `Flask` · **[▶ Live demo](https://huggingface.co/spaces/Bloc05kadeOscar/tavi-predictor)**
 
 ### 🚗 [detection](https://github.com/O-srcK/detection) · Python · Computer Vision
 Real-time vehicle detection with **YOLOv4-tiny** + OpenCV and object tracking over a live feed. Ran on a **Raspberry Pi 5** as the perception layer of the award-winning **Intelligent Intersection** project.
